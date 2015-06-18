@@ -10,7 +10,7 @@ import java.io.InputStreamReader;
 import java.util.Scanner;
 
 public class Parimpar {
-    static int impar, par, n1;
+    static int impar, par, n1;//Variaveis
     public static void main(String[] args) throws IOException {
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
         Scanner s = new Scanner(System.in);
